@@ -116,13 +116,13 @@
     .header__button {
         height: 30px;
         width: 95px;
-        margin: 5px 20% 5px;
-    }
+        margin: 2% 12% 5%;
+        }
 
     .header__logo {
         height: 40px;
         width: 201px;
-        margin: 5px 5px 3px;
+        margin: 7% 5% 1%;
     }
 
     .main {
@@ -152,6 +152,7 @@
     .section1__title {
         padding-top: 8%;
         min-height: 100px;
+        margin-left: 2%;
         
         
     }
